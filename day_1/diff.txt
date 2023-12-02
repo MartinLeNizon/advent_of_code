@@ -1,0 +1,4 @@
+1002c1002
+< The sum of calibration values is: 54992
+---
+> The sum of calibration values is: 54925
